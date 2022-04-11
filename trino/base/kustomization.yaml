@@ -140,4 +140,4 @@ images:
     newTag: 2.3.3-002
   - name: trino
     newName: quay.io/opendatahub/trino
-    newTag: '361'
+    newTag: '373'
